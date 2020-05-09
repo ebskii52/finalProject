@@ -66,8 +66,6 @@ We are hoping to answer the following questions:
 - Predict future reviews for a new restaurant based on the available data
 - Predict what restaurant to open where
 
-# Second Segment
-
 # Presentation link - https://docs.google.com/presentation/d/1RmP25RHScKQilyfSACAFbge-9NbVzzcVNlpxeGMc4zk/edit#slide=id.p
 
 
@@ -228,6 +226,9 @@ Good star rating = ratings >= 4
 Bad star rating = ratings <= 3
 
 ### Technology to be used 
+
+#### Softwares Used
+Python 3.6.9, Anaconda, Inc., Jupyter Notebook 6.0.2, Visual Studio Code, 1.40.2, PgAdmin4, Tableau Desktop
 
 #### Data Cleaning and Analysis
 We will be using Pandas to clean the data and perform exploratory analysis. Further analysis will be conducted using Python. We will be importing the yelp data downloaded from kaggle.com, and converting that dataset, which is in JSON format, into a dataframe.
